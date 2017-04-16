@@ -4,9 +4,13 @@ link: https://juli2017.github.io/WhoIsWorking/
 
 # H1B Visa Program Faces Charges of Discrimination Against US IT Workers
 
+* 1 March 2017.  <a href="https://www.rt.com/usa/379118-laid-off-ucsf-workers-sue/">Laid-off IT workers plan to sue UC San Francisco as jobs outsourced to India </a>
 
-<img src="./img/oracle-aerial-bang.jpg" />
-* 18 January 2017.  <a href="http://www.mercurynews.com/2017/01/18/oracle-paid-white-men-more-than-women-blacks-asians-labor-department-lawsuit/">Oracle paid white men more than women, blacks, Asians: labor department lawsuit:</a>
+At least 13 employees plan to sue the university for outsourcing their jobs to a group of young men from India, claiming their eliminated jobs amounted to discrimination. Filing a lawsuit will mean no severance pay.
+
+While outsourcing employee abroad isn’t illegal by itself, hiring a group of uniformly young male workers from India runs contrary to a law forbidding bias based on national origin, gender, age, and race.
+
+* 18 January 2017.  <a href="http://www.mercurynews.com/2017/01/18/oracle-paid-white-men-more-than-women-blacks-asians-labor-department-lawsuit/">Oracle paid white men more than women, blacks, Asians: labor department lawsuit</a>
 
 In an explosive lawsuit that threatens lucrative federal contracts, the U.S. Department of Labor has accused Bay Area tech giant Oracle of paying white men more than other workers and favoring Indians for technical jobs.
 
