@@ -1,7 +1,5 @@
 link: <a href="https://juli2017.github.io/WhoIsWorking/">Who Is Getting the Jobs?</a>
 
-## H1B Visa Program Faces Charges of Discrimination Against US IT Workers
-
 ### 1 March 2017.  <a href="https://www.rt.com/usa/379118-laid-off-ucsf-workers-sue/">Laid-off IT workers plan to sue UC San Francisco as jobs outsourced to India </a>
 
 At least 13 employees plan to sue the university for outsourcing their jobs to a group of young men from India, claiming their eliminated jobs amounted to discrimination. Filing a lawsuit will mean no severance pay.
