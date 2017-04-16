@@ -1,21 +1,22 @@
-# The number of foreign workers has increased dramatically in the past ten years in the Bay Area
-As the impact of the housing/job imbalance continues to affect all residents of San Mateo County, is it fair to ask who is getting the new jobs and who is being left behind?
-
 link: <a href="https://juli2017.github.io/WhoIsWorking/">Who Is Getting the Jobs?</a>
 
-# H1B Visa Program Faces Charges of Discrimination Against US IT Workers
+## H1B Visa Program Faces Charges of Discrimination Against US IT Workers
 
 1 March 2017.  <a href="https://www.rt.com/usa/379118-laid-off-ucsf-workers-sue/">Laid-off IT workers plan to sue UC San Francisco as jobs outsourced to India </a>
 
-*At least 13 employees plan to sue the university for outsourcing their jobs to a group of young men from India, claiming their eliminated jobs amounted to discrimination. Filing a lawsuit will mean no severance pay.
+* At least 13 employees plan to sue the university for outsourcing their jobs to a group of young men from India, claiming their eliminated jobs amounted to discrimination. Filing a lawsuit will mean no severance pay.
 
 While outsourcing employee abroad isn’t illegal by itself, hiring a group of uniformly young male workers from India runs contrary to a law forbidding bias based on national origin, gender, age, and race.
 
 18 January 2017.  <a href="http://www.mercurynews.com/2017/01/18/oracle-paid-white-men-more-than-women-blacks-asians-labor-department-lawsuit/">Oracle paid white men more than women, blacks, Asians: labor department lawsuit</a>
 
-*In an explosive lawsuit that threatens lucrative federal contracts, the U.S. Department of Labor has accused Bay Area tech giant Oracle of paying white men more than other workers and favoring Indians for technical jobs.
+* In an explosive lawsuit that threatens lucrative federal contracts, the U.S. Department of Labor has accused Bay Area tech giant Oracle of paying white men more than other workers and favoring Indians for technical jobs.
 
-# LCA Applications by Work City 2010 - 2016
+# The number of foreign workers has increased dramatically in the past ten years in the Bay Area
+As the impact of the housing/job imbalance continues to affect all residents of San Mateo County, is it fair to ask who is getting the new jobs and who is being left behind?
+
+
+## LCA Applications by Work City 2010 - 2016
 
 
 <img src="./img/LCAByWorkCityByFYSanzMateoCounty.jpg" />
