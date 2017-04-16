@@ -2,10 +2,13 @@
 DiversityForeignWorkers
 link: https://juli2017.github.io/WhoIsWorking/
 
-# LCA Applications by Work City 2010 - 2016
+# H1B Visa Program Faces Charges of Discrimination Against US IT Workers
 
 
 <img src="./img/oracle-aerial-bang.jpg" />
+* 18 January 2017.  <a href="http://www.mercurynews.com/2017/01/18/oracle-paid-white-men-more-than-women-blacks-asians-labor-department-lawsuit/">Oracle paid white men more than women, blacks, Asians: labor department lawsuit:</a>
+
+In an explosive lawsuit that threatens lucrative federal contracts, the U.S. Department of Labor has accused Bay Area tech giant Oracle of paying white men more than other workers and favoring Indians for technical jobs.
 
 # LCA Applications by Work City 2010 - 2016
 
@@ -19,6 +22,28 @@ link: https://juli2017.github.io/WhoIsWorking/
 <img src="./img/LCAByWorkCityByFYSanFranciscoCounty.jpg" />
 
 
-### Source: http://www.myvisajobs.com/H1B_Visa.aspx
+### Source: <a href="http://www.myvisajobs.com/H1B_Visa.aspx">H1B Data Website</a>
 ### H1B Visa Reports were created based Labor Condition Applications (LCA) filed by U.S. employers in fiscal year(1 October-30 September). The number of LCA includes new, renewed, transferred and cap-exempt LCA. 
-### Data Source: https://docs.google.com/spreadsheets/d/1nIkE9t1UokLb5yhP8vmheDDZVKfZqf7UYTZZlx9lvXg/pubhtml
+### Data Source: <a href="https://docs.google.com/spreadsheets/d/1nIkE9t1UokLb5yhP8vmheDDZVKfZqf7UYTZZlx9lvXg/pubhtml">LCA Data Source</a>
+
+
+# News Articles
+## 2011
+* Good contextual overview: <a href="https://www.usatoday.com/story/tech/2014/11/03/east-palo-alto-philanthropy-facebook-silicon-valley/16244117/">Struggling in the shadow of Silicon Valley wealth</a>
+* Good contextual overview: <a href="http://www.siliconvalleyoneworld.com/2015/05/28/san-mateo-county-leads-economic-growth/">San Mateo County Leads Bay Area Economic Growth</a>
+
+## 2012
+* Good contextual overview: <a href="https://www.usatoday.com/story/tech/2014/11/03/east-palo-alto-philanthropy-facebook-silicon-valley/16244117/">Struggling in the shadow of Silicon Valley wealth</a>
+* Good contextual overview: <a href="http://www.siliconvalleyoneworld.com/2015/05/28/san-mateo-county-leads-economic-growth/">San Mateo County Leads Bay Area Economic Growth</a>
+
+## 2014
+* Good contextual overview: <a href="https://www.usatoday.com/story/tech/2014/11/03/east-palo-alto-philanthropy-facebook-silicon-valley/16244117/">Struggling in the shadow of Silicon Valley wealth</a>
+* Good contextual overview: <a href="http://www.siliconvalleyoneworld.com/2015/05/28/san-mateo-county-leads-economic-growth/">San Mateo County Leads Bay Area Economic Growth</a>
+
+## 2015
+* Good contextual overview: <a href="https://www.usatoday.com/story/tech/2014/11/03/east-palo-alto-philanthropy-facebook-silicon-valley/16244117/">Struggling in the shadow of Silicon Valley wealth</a>
+* Good contextual overview: <a href="http://www.siliconvalleyoneworld.com/2015/05/28/san-mateo-county-leads-economic-growth/">San Mateo County Leads Bay Area Economic Growth</a>
+
+## 2016
+* Good contextual overview: <a href="https://www.usatoday.com/story/tech/2014/11/03/east-palo-alto-philanthropy-facebook-silicon-valley/16244117/">Struggling in the shadow of Silicon Valley wealth</a>
+* Good contextual overview: <a href="http://www.siliconvalleyoneworld.com/2015/05/28/san-mateo-county-leads-economic-growth/">San Mateo County Leads Bay Area Economic Growth</a>
