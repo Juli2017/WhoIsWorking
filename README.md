@@ -2,7 +2,7 @@
 As the impact of the housing/job imbalance has affected all residents of San Mateo County, is it fair to ask who is getting
 the new jobs and who is being left behind?
 
-link: <a href="https://juli2017.github.io/WhoIsWorking/">< /a>
+link: <a href="https://juli2017.github.io/WhoIsWorking/">Who Is Getting the Jobs?</a>
 
 # H1B Visa Program Faces Charges of Discrimination Against US IT Workers
 
