@@ -1,7 +1,8 @@
 # The number of foreign workers has increased dramatically in the past ten years in the Bay Area
-As the impact of the housing/job imbalance has affected San Mateo County, is it fair to ask who is getting
-these jobs and who is being left behind?
-link: <a href="https://juli2017.github.io/WhoIsWorking/"></a>
+As the impact of the housing/job imbalance has affected all residents of San Mateo County, is it fair to ask who is getting
+the new jobs and who is being left behind?
+
+link: <a href="https://juli2017.github.io/WhoIsWorking/"/a>
 
 # H1B Visa Program Faces Charges of Discrimination Against US IT Workers
 
