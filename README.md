@@ -24,11 +24,11 @@ As the impact of the housing/job imbalance continues to affect all residents of 
 <img src="./img/LCAByWorkCityByFYSanzMateoCounty.jpg" />
 While there are far fewer H1B Visa applications for cities in San Mateo County than in adjacent San Francisco and Santa Clara counties, all three counties showed rapid growth in the number of Labor Condition Applications (LCA) in the past ten years.
 San Mateo county went from 1,242 LCAs in 2010 (fairly evenly spread among the 7 cties included in the data set) to 7,725 in 2016, with almost half of these (3,578) in Menlo Park and Redwood City. Note the decline in LCA filed in 2016 for Redwood Shores, the location of Oracle and the lawsuit mentioned above.
-
+<br/><br/>
 
 <img src="./img/LCAByWorkCityByFYSantaClaraCounty.jpg" />
 Between 2010 and 2016, Santa Clara County in the heart of Silicon Valley increased the number of LCAs filed in the six cities included in the data set from 5,548 to 38,087!
-
+<br/><br/>
 
 <img src="./img/LCAByWorkCityByFYSanFranciscoCounty.jpg" />
 San Francisco County increased the number of LCAs filed in the ten year period from 1,815 to 15,641.
