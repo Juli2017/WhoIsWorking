@@ -1,16 +1,16 @@
 # link: <a href="https://juli2017.github.io/WhoIsWorking/">Who Is Getting the Jobs?</a>
 
-1 March 2017.  <a href="https://www.rt.com/usa/379118-laid-off-ucsf-workers-sue/">Laid-off IT workers plan to sue UC San Francisco as jobs outsourced to India </a>
+**1 March 2017.**  <a href="https://www.rt.com/usa/379118-laid-off-ucsf-workers-sue/">Laid-off IT workers plan to sue UC San Francisco as jobs outsourced to India </a>
 
 At least 13 employees plan to sue the university for outsourcing their jobs to a group of young men from India, claiming their eliminated jobs amounted to discrimination. Filing a lawsuit will mean no severance pay.
 
 While outsourcing employee abroad isn’t illegal by itself, hiring a group of uniformly young male workers from India runs contrary to a law forbidding bias based on national origin, gender, age, and race.
 
-18 January 2017.  <a href="http://www.mercurynews.com/2017/01/18/oracle-paid-white-men-more-than-women-blacks-asians-labor-department-lawsuit/">Oracle paid white men more than women, blacks, Asians: labor department lawsuit</a>
+**18 January 2017.**  <a href="http://www.mercurynews.com/2017/01/18/oracle-paid-white-men-more-than-women-blacks-asians-labor-department-lawsuit/">Oracle paid white men more than women, blacks, Asians: labor department lawsuit</a>
 
 In an explosive lawsuit that threatens lucrative federal contracts, the U.S. Department of Labor has accused Bay Area tech giant Oracle of paying white men more than other workers and favoring Indians for technical jobs.
 
-15 July 2016.  <a href="https://www.dailydot.com/debug/facebook-diversity-report-criticism/">Facebook’s latest diversity report draws lots of criticism after showing minimal improvements</a>
+**15 July 2016.**  <a href="https://www.dailydot.com/debug/facebook-diversity-report-criticism/">Facebook’s latest diversity report draws lots of criticism after showing minimal improvements</a>
 
 In the U.S., 48 percent of people on Facebook’s technical teams are white, 46 percent are Asian, and Hispanic and Black employees are just three and one percent, respectively. Non-technical Facebook workers in the U.S. are 60 percent white, 25 percent Asian, seven percent Hispanic, and five percent Black. 
 
