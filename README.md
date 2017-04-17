@@ -18,18 +18,22 @@ As the impact of the housing/job imbalance continues to affect all residents of 
 
 
 <img src="./img/LCAByWorkCityByFYSanzMateoCounty.jpg" />
+While there are far fewer H1B Visa applications for cities in San Mateo County than in adjacent San Francisco and Santa Clara counties, all three counties showed rapid growth in the number of Labor Condition Applications (LCA) in the past ten years.
+San Mateo county went from 1,242 LCAs in 2010 (fairly evenly spread among the 7 cties included in the data set) to 7,725 in 2016, with almost half of these (3,578) in Menlo Park and Redwood City. Note the decline in LCA's in 2016 for Redwood Shores, the location of Oracle and the lawsuit mentioned above.
 
 
 <img src="./img/LCAByWorkCityByFYSantaClaraCounty.jpg" />
-
+Between 2010 and 2016, Santa Clara County in the heart of Silicon Valley increased the number of LCAs filed in the six cities included in the data set from 5,548 to 38,087!
 
 <img src="./img/LCAByWorkCityByFYSanFranciscoCounty.jpg" />
-
+San Francisco county increased the number of LCAs filed in the ten year period from 1,815 to 15,641.
 
 ### Source: <a href="http://www.myvisajobs.com/H1B_Visa.aspx">H1B Data Website</a>
 ### H1B Visa Reports were created based Labor Condition Applications (LCA) filed by U.S. employers in fiscal year(1 October-30 September). The number of LCA includes new, renewed, transferred and cap-exempt LCA. 
 ### Data Source: <a href="https://docs.google.com/spreadsheets/d/1nIkE9t1UokLb5yhP8vmheDDZVKfZqf7UYTZZlx9lvXg/pubhtml">LCA Data Source</a>
+Work cities were selected for inclusion in the data set based on their rank and the presence of new IT employers during the 10 year period reported.
 
+Before the H-1B, H-1B1 or E-3 visa petition can be filed with USCIS, the employer must fill a Labor Condition Application(LCA) with the Department of Labor(DOL) through the iCERT Portal System no more than 6 months before the initial date of intended employment, demonstrating that it is paying the required wage for this position in the geographic region where the job is located. The employer may use a single LCA to request multiple positions where they are in the same visa category and job classification, and are either all part-time or all full-time positions.
 
 # News Articles
 ## 2011
