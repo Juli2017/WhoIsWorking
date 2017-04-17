@@ -1,4 +1,4 @@
-link: <a href="https://juli2017.github.io/WhoIsWorking/">Who Is Getting the Jobs?</a>
+# link: <a href="https://juli2017.github.io/WhoIsWorking/">Who Is Getting the Jobs?</a>
 
 1 March 2017.  <a href="https://www.rt.com/usa/379118-laid-off-ucsf-workers-sue/">Laid-off IT workers plan to sue UC San Francisco as jobs outsourced to India </a>
 
