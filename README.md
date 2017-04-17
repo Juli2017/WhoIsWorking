@@ -53,7 +53,7 @@ Before the H-1B, H-1B1 or E-3 visa petition can be filed with USCIS, the employe
 * 20 August 2013: <a href="http://www.sfgate.com/business/bottomline/article/In-Silicon-Valley-age-can-be-a-curse-4742365.php">In Silicon Valley, age can be a curse</a>
 
 ## 2014
-* 21 August 2014: <a href="https://www.cnet.com/news/vexed-in-the-city-starved-for-tech-talent-and-yet-nobody-to-hire/">Vexed in the city: Starved for tech talent and yet nobody to hire?h</a>
+* 21 August 2014: <a href="https://www.cnet.com/news/vexed-in-the-city-starved-for-tech-talent-and-yet-nobody-to-hire/">Vexed in the city: Starved for tech talent and yet nobody to hire?</a>
 
 ## 2015
 * 19 February 2015: <a href="http://www.epi.org/blog/new-data-infosys-tata-abuse-h-1b-program/">New Data Show How Firms Like Infosys and Tata Abuse the H-1B Program</a>
