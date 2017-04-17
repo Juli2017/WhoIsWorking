@@ -14,7 +14,7 @@ In an explosive lawsuit that threatens lucrative federal contracts, the U.S. Dep
 
 In the U.S., 48 percent of people on Facebook’s technical teams are white, 46 percent are Asian, and Hispanic and Black employees are just three and one percent, respectively. Non-technical Facebook workers in the U.S. are 60 percent white, 25 percent Asian, seven percent Hispanic, and five percent Black. 
 
-# The number of foreign workers has increased dramatically in the past ten years in the Bay Area, and large IT companies have been criticized for the lack of diversity in the workers they employ 
+## The number of foreign workers has increased dramatically in the past ten years in the Bay Area, and large IT companies have been criticized for the lack of age and ethnic diversity in the workers they employ 
 As the impact of the housing/job imbalance continues to affect all residents of San Mateo County, is it fair to ask who is getting the new jobs and who is being left behind?
 
 
@@ -42,21 +42,29 @@ Before the H-1B, H-1B1 or E-3 visa petition can be filed with USCIS, the employe
 
 # News Articles
 ## 2011
-* Good contextual overview: <a href="https://www.usatoday.com/story/tech/2014/11/03/east-palo-alto-philanthropy-facebook-silicon-valley/16244117/">Struggling in the shadow of Silicon Valley wealth</a>
-* Good contextual overview: <a href="http://www.siliconvalleyoneworld.com/2015/05/28/san-mateo-county-leads-economic-growth/">San Mateo County Leads Bay Area Economic Growth</a>
+* 22 June 2011: <a href="http://archives.sfweekly.com/sanfrancisco/h1-b-visa-program-creates-caste-system-for-silicon-valley/Content?oid=2181929">H1-B Visa Program Creates Caste System for Silicon Valley </a>
+
 
 ## 2012
-* Good contextual overview: <a href="https://www.usatoday.com/story/tech/2014/11/03/east-palo-alto-philanthropy-facebook-silicon-valley/16244117/">Struggling in the shadow of Silicon Valley wealth</a>
-* Good contextual overview: <a href="http://www.siliconvalleyoneworld.com/2015/05/28/san-mateo-county-leads-economic-growth/">San Mateo County Leads Bay Area Economic Growth</a>
+* 28 January 2012: <a href="http://www.nytimes.com/2012/01/29/us/bay-area-technology-professionals-cant-get-hired-as-industry-moves-on.html?_r=0">Old Techies Never Die; They Just Can’t Get Hired as an Industry Moves On</a>
+* 28 November 2012: <a href="https://www.aol.com/article/2012/11/28/ceo-randy-adams-age-bias-silicon-valley/20390154/">Silicon Valley: Worst Place In America For Over-40 Workers?</a>
+
+## 2013
+* 20 August 2013: <a href="http://www.sfgate.com/business/bottomline/article/In-Silicon-Valley-age-can-be-a-curse-4742365.php">In Silicon Valley, age can be a curse</a>
 
 ## 2014
-* Good contextual overview: <a href="https://www.usatoday.com/story/tech/2014/11/03/east-palo-alto-philanthropy-facebook-silicon-valley/16244117/">Struggling in the shadow of Silicon Valley wealth</a>
-* Good contextual overview: <a href="http://www.siliconvalleyoneworld.com/2015/05/28/san-mateo-county-leads-economic-growth/">San Mateo County Leads Bay Area Economic Growth</a>
+* 21 August 2014: <a href="https://www.cnet.com/news/vexed-in-the-city-starved-for-tech-talent-and-yet-nobody-to-hire/">Vexed in the city: Starved for tech talent and yet nobody to hire?h</a>
 
 ## 2015
-* Good contextual overview: <a href="https://www.usatoday.com/story/tech/2014/11/03/east-palo-alto-philanthropy-facebook-silicon-valley/16244117/">Struggling in the shadow of Silicon Valley wealth</a>
-* Good contextual overview: <a href="http://www.siliconvalleyoneworld.com/2015/05/28/san-mateo-county-leads-economic-growth/">San Mateo County Leads Bay Area Economic Growth</a>
+* 19 February 2015: <a href="http://www.epi.org/blog/new-data-infosys-tata-abuse-h-1b-program/">New Data Show How Firms Like Infosys and Tata Abuse the H-1B Program</a>
+* 16 April 2015: <a href="http://www.breitbart.com/big-government/2015/04/16/american-worker-sues-company-for-discrimination-alleges-it-favors-south-asian-workers/">American Worker Sues Company For Discrimination, Alleges It Favors South Asian Workers</a>
+* 4 September 2015: <a href="http://www.computerworld.com/article/2978948/it-careers/older-it-pros-pushed-aside-by-younger-h-1b-workers.html">Older IT pros pushed aside by younger H-1B workers</a>
 
 ## 2016
-* Good contextual overview: <a href="https://www.usatoday.com/story/tech/2014/11/03/east-palo-alto-philanthropy-facebook-silicon-valley/16244117/">Struggling in the shadow of Silicon Valley wealth</a>
-* Good contextual overview: <a href="http://www.siliconvalleyoneworld.com/2015/05/28/san-mateo-county-leads-economic-growth/">San Mateo County Leads Bay Area Economic Growth</a>
+* 11 February 2016: <a href="http://ww2.kqed.org/news/2016/02/11/silicon-valleys-indian-community-pushes-to-reform-h1b-visa-program/">Silicon Valley’s Indian Community Pushes to Reform H1B Visa Program</a>
+* 29 February 2016: <a href="https://organizationsandsocialchange.wordpress.com/2016/02/29/will-u-s-tech-jobs-turn-all-indian-the-h1b-visa-dilemma/">Will U.S. Tech Jobs Turn All-Indian? The H1B Visa Dilemma</a>
+* 25 November 2016: <a href="http://www.livemint.com/Companies/6FwzsXfqzb0BBrvHrUNzBK/RS-Software-cancels-restrictive-Visa-deal.html">RS Software cancels ‘restrictive’ Visa deal</a>
+
+## 2017
+* 3 February 2017: <a href="https://qz.com/901292/indian-it-firms-like-wipro-tcs-and-infosys-have-been-preparing-for-changes-in-h1b-visa-laws-and-donald-trumps-america-for-several-years/">Indian IT firms have been preparing for changes in H-1B visa laws for nearly a decade</a>
+
