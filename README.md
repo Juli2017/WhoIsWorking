@@ -21,19 +21,19 @@ As the impact of the housing/job imbalance continues to affect all residents of 
 ## LCA Applications by Work City 2010 - 2016
 
 
-<img src="./img/LCAByWorkCityByFYSanzMateoCounty.jpg" />
-<br/><br/>
+<img src="./img/LCAByWorkCityByFYSanzMateoCounty.jpg" />  
+
 While there are far fewer H1B Visa applications for cities in San Mateo County than in adjacent San Francisco and Santa Clara counties, all three counties showed rapid growth in the number of Labor Condition Applications (LCA) in the past ten years.
-San Mateo county went from 1,242 LCAs in 2010 (fairly evenly spread among the 7 cties included in the data set) to 7,725 in 2016, with almost half of these (3,578) in Menlo Park and Redwood City. Note the decline in LCA filed in 2016 for Redwood Shores, the location of Oracle and the lawsuit mentioned above.
+San Mateo county went from 1,242 LCAs in 2010 (fairly evenly spread among the 7 cties included in the data set) to 7,725 in 2016, with almost half of these (3,578) in Menlo Park and Redwood City. Note the decline in LCA filed in 2016 for Redwood Shores, the location of Oracle and the lawsuit mentioned above.  
 
 
-<img src="./img/LCAByWorkCityByFYSantaClaraCounty.jpg" />
-Between 2010 and 2016, Santa Clara County in the heart of Silicon Valley increased the number of LCAs filed in the six cities included in the data set from 5,548 to 38,087!
-<br/><br/>
+<img src="./img/LCAByWorkCityByFYSantaClaraCounty.jpg" />  
+Between 2010 and 2016, Santa Clara County in the heart of Silicon Valley increased the number of LCAs filed in the six cities included in the data set from 5,548 to 38,087!  
 
-<img src="./img/LCAByWorkCityByFYSanFranciscoCounty.jpg" />
-<br/><br/>
-San Francisco County increased the number of LCAs filed in the ten year period from 1,815 to 15,641.
+
+<img src="./img/LCAByWorkCityByFYSanFranciscoCounty.jpg" />  
+
+San Francisco County increased the number of LCAs filed in the ten year period from 1,815 to 15,641.  
 
 ### Source: <a href="http://www.myvisajobs.com/H1B_Visa.aspx">H1B Data Website</a> 
 H1B Visa Reports were created based Labor Condition Applications (LCA) filed by U.S. employers in fiscal year(1 October-30 September). The number of LCA includes new, renewed, transferred and cap-exempt LCA. 
