@@ -70,4 +70,4 @@ Before the H-1B, H-1B1 or E-3 visa petition can be filed with USCIS, the employe
 
 ## 2017
 * 3 February 2017: <a href="https://qz.com/901292/indian-it-firms-like-wipro-tcs-and-infosys-have-been-preparing-for-changes-in-h1b-visa-laws-and-donald-trumps-america-for-several-years/">Indian IT firms have been preparing for changes in H-1B visa laws for nearly a decade</a>
-* 18 April 2017: <a href="https://www.nytimes.com/2017/04/18/us/politics/executive-order-hire-buy-american-h1b-visa-trump.html?_r=0">Trump Signs Order That Could Lead to Curbs on Foreign Workers</a>
+* 18 April 2017: <a href="http://www.theverge.com/2017/4/18/15339948/trump-executive-order-h1-b-visas">Trump signs executive order reviewing H-1B visa program</a>
