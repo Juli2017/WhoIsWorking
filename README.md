@@ -1,4 +1,4 @@
-# link: https://juli2017.github.io/WhoIsWorking/
+link: https://juli2017.github.io/WhoIsWorking/
 
 **1 March 2017.**  <a href="https://www.rt.com/usa/379118-laid-off-ucsf-workers-sue/">Laid-off IT workers plan to sue UC San Francisco as jobs outsourced to India </a>
 
