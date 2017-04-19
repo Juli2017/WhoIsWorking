@@ -13,7 +13,9 @@ While outsourcing employee abroad isn’t illegal by itself, hiring a group of u
 
 **15 July 2016.**  <a href="https://www.dailydot.com/debug/facebook-diversity-report-criticism/">Facebook’s latest diversity report draws lots of criticism after showing minimal improvements</a>
 
-"In the U.S., 48 percent of people on Facebook’s technical teams are white, 46 percent are Asian, and Hispanic and Black employees are just three and one percent, respectively. Non-technical Facebook workers in the U.S. are 60 percent white, 25 percent Asian, seven percent Hispanic, and five percent Black." 
+"In the U.S., 48 percent of people on Facebook’s technical teams are white, 46 percent are Asian, and Hispanic and Black employees are just three and one percent, respectively. Non-technical Facebook workers in the U.S. are 60 percent white, 25 percent Asian, seven percent Hispanic, and five percent Black."   
+
+**18 April 2017.** <a href="http://www.theverge.com/2017/4/18/15339948/trump-executive-order-h1-b-visas">Trump signs executive order reviewing H-1B visa program</a>
 
 ## The number of foreign workers has increased dramatically in the past ten years in the Bay Area; large IT companies have been criticized for hiring practices that discriminate against US Citizens and for the lack of age and ethnic diversity in the workers they employ 
 As the impact of the housing/job imbalance continues to affect all residents of San Mateo County, is it fair to ask who is getting the new jobs and who is being left behind?
@@ -70,4 +72,4 @@ Before the H-1B, H-1B1 or E-3 visa petition can be filed with USCIS, the employe
 
 ## 2017
 * 3 February 2017: <a href="https://qz.com/901292/indian-it-firms-like-wipro-tcs-and-infosys-have-been-preparing-for-changes-in-h1b-visa-laws-and-donald-trumps-america-for-several-years/">Indian IT firms have been preparing for changes in H-1B visa laws for nearly a decade</a>
-* 18 April 2017: <a href="http://www.theverge.com/2017/4/18/15339948/trump-executive-order-h1-b-visas">Trump signs executive order reviewing H-1B visa program</a>
+
