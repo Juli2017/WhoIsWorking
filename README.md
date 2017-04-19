@@ -1,6 +1,6 @@
 # Who is getting the new IT jobs?
 link: https://juli2017.github.io/WhoIsWorking/  
-**18 April 2017.** <a href="http://www.theverge.com/2017/4/18/15339948/trump-executive-order-h1-b-visas">Trump signs executive order reviewing H-1B visa program</a>
+**18 April 2017.** <a href="http://www.theverge.com/2017/4/18/15339948/trump-executive-order-h1-b-visas">Trump signs executive order reviewing H-1B visa program</a>  
 **1 March 2017.**  <a href="https://www.rt.com/usa/379118-laid-off-ucsf-workers-sue/">Laid-off IT workers plan to sue UC San Francisco as jobs outsourced to India </a>
 
 "At least 13 employees plan to sue the university for outsourcing their jobs to a group of young men from India, claiming their eliminated jobs amounted to discrimination. Filing a lawsuit will mean no severance pay.
