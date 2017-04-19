@@ -58,6 +58,7 @@ Before the H-1B, H-1B1 or E-3 visa petition can be filed with USCIS, the employe
 
 ## 2014
 * 21 August 2014: <a href="https://www.cnet.com/news/vexed-in-the-city-starved-for-tech-talent-and-yet-nobody-to-hire/">Vexed in the city: Starved for tech talent and yet nobody to hire?</a>
+* 29 August 2014: <a href="http://fortune.com/2014/08/29/how-tech-companies-compare-in-employee-diversity/?iid=leftrail">How tech companies compare in employee diversity</a>
 
 ## 2015
 * 19 February 2015: <a href="http://www.epi.org/blog/new-data-infosys-tata-abuse-h-1b-program/">New Data Show How Firms Like Infosys and Tata Abuse the H-1B Program</a>
@@ -70,5 +71,6 @@ Before the H-1B, H-1B1 or E-3 visa petition can be filed with USCIS, the employe
 * 25 November 2016: <a href="http://www.livemint.com/Companies/6FwzsXfqzb0BBrvHrUNzBK/RS-Software-cancels-restrictive-Visa-deal.html">RS Software cancels ‘restrictive’ Visa deal</a>
 
 ## 2017
+* 9 January 2017: <a href="https://www.bloomberg.com/news/articles/2017-01-09/facebook-s-hiring-process-hinders-its-effort-to-create-a-diverse-workforce">Facebook’s Hiring Process Hinders Its Effort to Create a Diverse Workforce</a>
 * 3 February 2017: <a href="https://qz.com/901292/indian-it-firms-like-wipro-tcs-and-infosys-have-been-preparing-for-changes-in-h1b-visa-laws-and-donald-trumps-america-for-several-years/">Indian IT firms have been preparing for changes in H-1B visa laws for nearly a decade</a>
 
